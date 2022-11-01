@@ -21,3 +21,7 @@ body{
 #must{
     color: palevioletred;
 }
+
+#dont{
+    color: #caa4ef;
+}
